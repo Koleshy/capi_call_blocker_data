@@ -4,12 +4,12 @@
     "version": "1.0.0",
     "optional": false,
     "use_url": false,
-    "url": "https://drive.google.com/drive/folders/1kwkOPOrjSha-DHy3BBRPCQKVvaSCoz11?usp=sharing"
+    "url": "https://drive.google.com/drive/folders/..."
   },
   "stable": {
     "label": "(DEV)",
     "version": "1.0.0",
     "use_url": false,
-    "url": "https://drive.google.com/drive/folders/1kwkOPOrjSha-DHy3BBRPCQKVvaSCoz11?usp=sharing"
+    "url": "https://drive.google.com/drive/folders/..."
   }
 }
